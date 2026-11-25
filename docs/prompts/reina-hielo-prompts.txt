@@ -1,0 +1,241 @@
+PROMPTS DE CADA ESCENA DE «LA REINA DEL HIELO Y YO» (@soydiegoosorio)
+CÓMO USARLOS: pégale este archivo a Claude Code (con Higgsfield conectado) y dile "haz este video con mi clon".
+Image 1 = tu ficha con el vestuario (Claude la crea con GPT Image 2.6) · Image 2 = una foto de tu cara ·
+Image 3 = la ficha de la reina (va en TODAS las escenas) · Image 4 = la ficha de la princesa rival (escenas 1, 3, 6,
+9 y 10) o la del muñeco de nieve (escena 8) · Image 5 = la ficha del muñeco de nieve (escena 10).
+Seedance 2.5 en Higgsfield: 9:16, 480p, con audio, una generación por escena. Cambia [YOUR LOOK] por cómo eres tú.
+Cada escena = BLOQUE BASE + su texto.
+Duraciones: 6, 4, 8, 4, 4, 6, 4, 4, 5, 6 y 8 segundos (al armar se recorta cada una). Costo de todo el video: 3,71
+dólares en créditos.
+Las escenas están escritas como comedia de película familiar a propósito: así el filtro de Higgsfield no las rechaza.
+Los personajes son inventados: las fichas piden que no se parezcan a los de ninguna película.
+
+==============================================================================
+TU FICHA (GPT Image 2.6, 16:9, con 3 fotos tuyas)
+==============================================================================
+
+SUBJECT: A premium three-panel character reference sheet of one man in an original winter-king costume, 16:9 overall, shot like an official costume-department reference photo for a major Hollywood film. Real high-resolution photography of a real person in a real, practical, hand-made costume: completely photorealistic, not illustration, not CGI.
+
+HIS FACE: EXACTLY the man of images 1, 2 and 3 (the same person): his exact face, identity, age and features; [YOUR LOOK: glasses or not, hair, beard]; a calm, confident, slightly mischievous expression. Take only his face, hair and identity from the photos, not his clothes or background.
+
+SKIN REALISM: real, untouched adult skin with visible pores, natural tone, fine lines; no makeup, no filters, no beauty smoothing; never plastic or airbrushed.
+
+HIS BUILD: about 1.90 m tall, fit but LEAN and slim, NOT muscular, NOT bulky, normal arms; head and face naturally sized. A relaxed, confident stance.
+
+THE COSTUME (an original design, identical in every panel), real fabrics, lightly worn:
+- A long, tailored coat of deep MIDNIGHT-BLUE wool that reaches the knees, closed at the front with a row of small silver buttons, with fine SILVER embroidery of frost patterns along the front edges and the cuffs.
+- A wide collar of soft silver-grey fur on the shoulders.
+- Under the coat, a dark charcoal high-necked shirt.
+- Slim dark charcoal trousers tucked into tall polished black leather boots.
+- Black leather gloves.
+- A plain silver brooch shaped like a simple six-pointed snowflake on the left side of the chest.
+- NO crown, NO hat, NO cape, NO weapon: his short dark hair is uncovered. No letters or logos anywhere.
+
+KEY RULES: one man, the same face, build and costume in all three panels. Mouth closed, a calm half-smile. Tack-sharp: eyes, wool weave, fur and silver embroidery crisply resolved. True, natural skin tone.
+
+LAYOUT (exactly this structure): three EQUAL-WIDTH vertical panels side by side, separated by very thin, faint light-grey dividing lines, the same seamless neutral mid-grey background through all three.
+- PANEL 1 (left): full body, straight-on FRONT view, standing centred and upright, feet about shoulder-width apart, arms relaxed at his sides. The top of his head about 6% below the top edge; his feet about 4% above the bottom edge, with a soft contact shadow. Eyes to the camera.
+- PANEL 2 (centre): full body, straight-on BACK view: the same height, position and scale, as if he simply turned around.
+- PANEL 3 (right): a tight CHEST-UP portrait, straight on: his head and shoulders filling the panel, cut at mid-chest, the fur collar and the snowflake brooch visible. The sharpest panel.
+
+COLOUR AND LIGHT: daylight-balanced studio light, neutral white balance, true-to-life colour; a large, soft key light from the front and slightly above; one seamless NEUTRAL mid-grey studio paper sweep.
+
+BANS: No crown, no hat, no cape, no weapon. No resemblance to any existing film, TV, comic, cartoon or game character or costume. No glowing effects, no CGI. Panel 2 is a BACK view, not a profile. No cropped head or feet in Panels 1 and 2. No text, no letters, no logos.
+
+==============================================================================
+FICHA DE LA REINA (GPT Image 2.6, 16:9)
+==============================================================================
+
+A premium three-panel character reference sheet of one woman, an ice queen, 16:9 overall, shot like an official costume-department reference photo for a major live-action fantasy film. Real high-resolution photography of a real person in a real, hand-made gown: completely photorealistic, not illustration, not CGI.
+
+HER FACE AND HAIR (identical in every panel): a beautiful woman of about twenty-five with a soft round face, fair porcelain skin with a light natural blush, big blue eyes, full pink lips and a knowing, mischievous little smile. Very light PLATINUM-BLONDE hair, soft and wavy, swept back from the forehead with volume and gathered into one thick, loose braid that falls over her left shoulder, with a few loose wavy strands framing her face. On top of her head, a small delicate SILVER TIARA with tiny clear crystals.
+
+HER GOWN (identical in every panel): a long PALE ICE-BLUE gown completely covered in tiny shimmering sequins and crystals, with a fitted bodice, a modest square neckline that sits high on the chest, long sheer ice-blue sleeves sparkling with crystals down to the wrists, and a full, floor-length skirt of layered tulle that glitters like frost. No cape. Her shoulders, chest and arms are covered.
+
+REALISM: real skin with fine texture, real hair, real fabric and real sequins catching the light. Elegant and regal, with the confident look of a queen who always gets her way.
+
+LAYOUT (exactly this structure): three EQUAL-WIDTH vertical panels side by side, separated by very thin, faint light-grey dividing lines, the same seamless neutral mid-grey background through all three.
+- PANEL 1 (left): full body, straight-on FRONT view, standing upright, hands relaxed in front of her skirt; head near the top edge, the hem of the skirt near the bottom edge.
+- PANEL 2 (centre): full body, straight-on BACK view: the braid, the back of the gown and the skirt.
+- PANEL 3 (right): a tight CHEST-UP portrait, straight on: her face, tiara, braid and the neckline of the gown. The sharpest panel.
+
+COLOUR AND LIGHT: daylight-balanced studio light, neutral white balance, a large soft key light from the front; one seamless NEUTRAL mid-grey studio paper sweep.
+
+BANS: No cape, no gloves, no wand, no snowflake logos. No low neckline, no bare shoulders. No glowing magic effects, no CGI, no cartoon look. No text, no letters, no logos.
+
+==============================================================================
+FICHA DE LA PRINCESA RIVAL (GPT Image 2.6, 9:16)
+==============================================================================
+
+A full-body character reference photo, vertical 9:16, photorealistic, like a costume reference for a major live-action fairy-tale film: an original fairy-tale princess with impossibly LONG GOLDEN HAIR. A pretty young woman of about twenty-two with a sweet, slightly spoiled face, green eyes and freckles. Her golden-blonde hair is woven into one enormous thick braid, decorated with small white and yellow flowers, so long that it trails several metres on the floor behind her. She wears an original gown of ROSE-PINK and cream: a fitted rose-pink bodice with cream lacing at the front, short puffed sleeves with cream ribbons, a modest round neckline, and a long full rose-pink skirt to the ankles; flat cream shoes. Standing relaxed, facing the camera, one hand holding her braid. Plain neutral mid-grey seamless studio background, soft even light, sharp focus, real skin texture, real hair, real fabric. An invented person: no resemblance to any existing film, TV, cartoon or game character. No purple or lilac dress, no tiara, no frying pan, no animal companion. No text, no logos.
+
+==============================================================================
+FICHA DEL MUÑECO DE NIEVE (GPT Image 2.6, 9:16)
+==============================================================================
+
+A full-body character reference photo, vertical 9:16, photorealistic, like a practical-effects creature reference for a major live-action fantasy film: a living SNOWMAN sidekick, about one metre tall, made of three round balls of real packed snow with a slightly rough, sparkling snow texture. A classic carrot nose, a smile made of small black coal pieces, three black coal buttons down the front, two thin dark twig arms. He wears big, cool BLACK SUNGLASSES and stands with the cocky attitude of a tiny bodyguard. Real snow, real carrot, real coal. Plain neutral mid-grey seamless studio background, soft even light, sharp focus. An ordinary classic snowman: no resemblance to any existing film, TV, cartoon or game snowman. No buck teeth, no twig hair on the head, no hat, no scarf. No text, no logos.
+
+==============================================================================
+BLOQUE BASE (va arriba de CADA escena)
+==============================================================================
+
+A shot from a funny, glossy, big-budget live-action fairy-tale comedy set in the modern world: an ice queen and her partner, the winter king, are a couple in love and partners in mischief; together they are THE COOL BAD KIDS of the fairy-tale world: stylish, smug, unbothered troublemakers who play elegant pranks on a rival princess and always win. Photorealistic cinematic live-action footage of real people in real places, vertical 9:16. Playful and mischievous like a family film, never dark: nobody is ever hurt.
+
+Every person moves like a real human being filmed in real life, at natural real-life speed: real footsteps and weight shifts, relaxed shoulders, hands and fingers that work, breathing, blinking, clothes and hair that move. Nobody slides, glides or moves like a puppet or a video-game character. Nothing is sped up.
+
+=== THE HERO: IDENTITY AND COSTUME LOCK (the most important rule) ===
+THE HERO is EXACTLY the man in IMAGE 1 (his costume reference sheet), with the face of IMAGE 2.
+- FACE (exactly image 2): his exact face; [YOUR LOOK: glasses or not, hair, beard]; real skin with visible pores. His head is always uncovered: no hat, no crown.
+- COSTUME (exactly image 1, never changed): a long, tailored coat of deep MIDNIGHT-BLUE wool to the knees, closed with small silver buttons, with fine silver frost embroidery on the front edges and cuffs; a wide collar of silver-grey fur; a dark charcoal high-necked shirt; slim dark trousers tucked into tall black leather boots; black leather gloves; a silver snowflake brooch on the chest.
+- BODY: tall (about 1.90 m), fit but lean and slim, natural proportions.
+
+=== THE QUEEN: IDENTITY AND COSTUME LOCK ===
+THE QUEEN is EXACTLY the woman in IMAGE 3 (her reference sheet), always the same woman: about twenty-five, a soft round face, fair skin, big blue eyes, very light PLATINUM-BLONDE wavy hair gathered into one thick loose braid over her left shoulder, a small silver tiara. She always wears the same long PALE ICE-BLUE gown covered in tiny shimmering sequins, with a modest square neckline that sits high on the chest, long sheer sparkling sleeves to the wrists and a full floor-length skirt. Her shoulders, chest and arms are always covered. She has ice magic: with a small, elegant flick of her hand she makes clean, beautiful, harmless ice appear.
+
+=== THE TWO OF THEM ===
+They are a real couple, deeply in love, and the coolest, most stylish troublemakers in town: the bad kids everybody secretly wants to be. ATTITUDE (very important): effortless cool, like the two leads of a slick heist movie or a fashion campaign. Slow, confident, economical movements; chins slightly up; smirks, raised eyebrows and knowing side glances instead of big goofy laughs; they never look silly, clumsy, cute, surprised or flustered, and they never pull funny faces. THE HERO in particular is always composed, sharp and charismatic: a calm half smile, steady eyes, relaxed shoulders. Their faces and clothes stay clean and immaculate at all times: nothing on their lips, beard or chin, no food, foam, cream or stains. Quick knowing glances, a hand at the small of the back, a quiet toast. Tasteful and elegant; never cruel.
+
+=== PHYSICS AND REALISM ===
+Real weight, mass and momentum: people and animals move, slide and stop on believable paths; nothing floats or hangs in the air. The magic ice looks like real, clear, sparkling ice and never hurts anyone: anyone or anything touched by it is perfectly fine a moment later. Real, detailed locations; real people with ordinary faces who react naturally. Five fingers on every hand; faces never warp or morph; objects never change size or melt; no text, logos or readable signs anywhere.
+
+=== THE CAMERA ===
+A professional cinema camera, operated by hand: gentle natural micro-shakes, a jolt on each impact, snap zooms and whip pans only where the scene asks for them; shallow depth of field, natural motion blur, rich film colour. Never slow motion, never sped up. No cuts or angles other than the ones the scene describes.
+
+=== SOUND AND BANS ===
+Real location sound only: the ambience of the place, footsteps, fabric, the crackle of ice, impacts, animal sounds, short natural gasps, shouts and laughter. NO MUSIC. No dialogue, no narration: nobody speaks any words. No blood, wounds or injuries: everyone ends up startled but fine. No CGI look, no video-game look, no cartoon look, no plastic skin, no beauty smoothing.
+
+==============================================================================
+ESCENA 1 · LA CALLE CONGELADA
+==============================================================================
+
+=== THE SCENE: THE FROZEN STREET (0.0s–6.0s) ===
+A comedy chase, like a family film. A wide, elegant city street on a sunny day: pale stone buildings, red double-decker buses parked far away, a broad pavement. THE RIVAL PRINCESS is exactly the woman of IMAGE 4 (an enormous golden braid with small flowers, a rose-pink gown): she rides a white horse. TWO SHOTS with one hard cut at 4.4s.
+- 0.0s–2.0s, SHOT A, wide, from the pavement: the rival princess comes galloping down the middle of the street on her white horse, her long golden braid flying behind her, looking back over her shoulder; two police cars with flashing lights follow her at a distance. At the right edge of the frame, in the foreground, THE HERO and THE QUEEN stand on the pavement with their backs to the camera, calmly watching; THE HERO holds two iced coffees.
+- 1.6s–2.0s: THE QUEEN lifts one hand with a small elegant flick, and a sheet of clear, sparkling ice spreads across the whole street.
+- 2.0s–4.4s: the white horse puts its hooves on the ice, skids, slows down and gently slides to a stop sitting on its haunches like a surprised dog, completely unharmed, the princess clinging to its neck with her mouth open; behind her the two police cars spin slowly on the ice and stop.
+- 4.4s–6.0s, SHOT B, a medium shot of the couple from the front: THE QUEEN lowers her hand, pleased with herself; THE HERO hands her back her iced coffee; they look at each other and smile, partners in crime.
+SOUND: galloping hooves, police sirens, the crackle of ice spreading, hooves and tyres sliding on ice, the horse's snort, the couple's soft laugh. No dialogue, no music.
+
+==============================================================================
+ESCENA 2 · EL CAFÉ HELADO
+==============================================================================
+
+=== THE SCENE: ICED COFFEE (0.0s–4.0s) ===
+A sunny, elegant city pavement with café terraces and people walking by in the background, a red double-decker bus far away, out of focus. ONE continuous shot, the camera still: a medium two-shot from the waist up, THE HERO on the left and THE QUEEN on the right, standing close together, facing the camera, each holding a tall clear cup of ICED BLACK COFFEE with ice cubes and a straw: plain dark coffee, NO whipped cream, NO milk foam, no lid. Their lips, his beard and their faces stay perfectly clean and dry the whole time.
+They look like the two coolest, most dangerous people on the street, and they know it.
+- 0.0s–1.2s: both take one slow, unhurried sip through their straws, looking off toward the street with calm, smug faces, like two people watching their own plan work.
+- 1.6s: without looking, they tap their cups together in a small, casual toast.
+- 1.7s–2.9s: they turn their faces to each other: a slow knowing smirk from him, a raised eyebrow from her.
+- 3.3s–4.0s: together they turn to the camera, chins slightly up, with the same cool, satisfied half smile. No laughing, no funny faces.
+SOUND: sunny street ambience, ice cubes rattling in the cups, the soft knock of two cups. No dialogue, no music.
+
+==============================================================================
+ESCENA 3 · LA TORRE Y LAS TIJERAS GIGANTES
+==============================================================================
+
+=== THE SCENE: THE TOWER AND THE GIANT SCISSORS (0.0s–8.0s) ===
+A slapstick comedy scene, like a family film: nobody is hurt. An immensely TALL old red-brick tower, as tall as a ten-storey building, under a bright blue sky. From the highest window an enormous golden braid hangs all the way down the wall to the ground, more than twenty-five metres long. At the foot of the tower stands a big farm cart piled very high with soft hay. THE RIVAL PRINCESS is exactly the woman of IMAGE 4 (golden hair with small flowers, a rose-pink gown); she is in the highest window. Her BOYFRIEND: a handsome young man in a white shirt and brown trousers. FOUR SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–1.8s, SHOT A, looking steeply up from the ground: the whole dizzying height of the tower; the boyfriend, a small real figure high above the ground, is climbing the golden braid hand over hand like a rope, already about twelve metres up. Halfway up the tower there is a small EMPTY stone balcony: nobody is on it in this shot.
+- 1.8s–4.3s, SHOT B, a medium shot of that small stone balcony seen from slightly above, with the thick golden braid hanging straight down right beside it, within arm's reach: THE HERO and THE QUEEN lean out side by side, cool and unhurried. THE HERO hands her a GIANT pair of scissors: comically oversized tailor's shears with shining steel blades a full metre long, as long as her arm, and thick red handles, so big she needs both hands (2.0s–2.8s). THE CUT MUST BE REAL AND CLEAR: at 3.1s she opens the two blades wide and slides them AROUND the braid, so that the thick braid sits INSIDE the open jaws, one blade in front of it and one blade behind it; from 3.3s to 3.5s she squeezes the handles together with both hands and the two blades close ON the braid and bite straight through it with one loud snip: we see the hair squeezed between the steel blades and then severed. The scissors never pass in front of the braid or behind it without touching it. From 3.5s the cut lower part of the braid drops away and falls out of the bottom of the frame, while the short upper stump, with its freshly cut blunt end, swings free above the closed blades.
+- 4.3s–6.6s, SHOT C, looking up from the ground, the camera tilting down with the fall: the cut lower half of the braid drops, and the boyfriend, still clutching it, falls the whole twelve metres, arms and legs windmilling, a real man falling through real air with a long comic yell; at about 5.9s he lands on his back in the middle of the huge pile of hay, which bursts into a big cloud of straw; half a second later he sits up, perfectly unharmed, dazed, with straw in his hair. The balcony is EMPTY in this shot too. Far above, a tiny real figure, the rival princess leans out of the highest window and screams.
+- 6.6s–8.0s, SHOT D, the balcony again: THE HERO and THE QUEEN look down over the edge with slow, satisfied smirks, the giant scissors resting on the balcony rail; she blows across the blades like a gunslinger.
+Every figure in every shot is a real person, even when very small and far away.
+SOUND: wind and birds, the creak of the braid, one huge metallic SNIP, a long falling yell, a deep soft thump in the hay, the princess's shriek far above. No dialogue, no music.
+
+==============================================================================
+ESCENA 4 · EL ENTRENAMIENTO
+==============================================================================
+
+=== THE SCENE: TRAINING (0.0s–4.0s) ===
+A cool couple moment. A sunny back garden with a wooden fence and trees; a heavy black punching bag hangs from a wooden frame. In THIS scene THE HERO is SHIRTLESS: bare-chested, with the lean, defined body of a boxer in fighting shape: clear abs, defined chest, shoulders and arms, not bulky; he wears his slim dark trousers, his tall black boots and black boxing gloves; his face is exactly the face of IMAGE 2. His midnight-blue coat with the fur collar lies folded on THE QUEEN's lap. THE QUEEN sits on a garden bench in the background, in her ice-blue gown, wearing dark sunglasses. THREE SHOTS with hard cuts, exactly at the times given below.
+- 0.0s–2.2s, SHOT A, a medium three-quarter shot of THE HERO at the bag: light on his feet, guard up, he throws a clean, stylish, professional combination: jab (0.5s), cross (0.9s), jab (1.5s) and a hard hook (1.9s); each punch snaps the heavy bag back; his muscles work under the sun, his face calm and focused. In the background on the right THE QUEEN sits on the bench watching him.
+- 2.2s–3.2s, SHOT B, a close-up of THE QUEEN on the bench: with one finger she slowly slides her sunglasses down her nose to look at him over the top, completely captivated; a slow, admiring half smile.
+- 3.2s–4.0s, SHOT C, a medium close-up of THE HERO: he stops the swinging bag with one glove, turns his face to the camera, barely out of breath, with a cool half smile and one raised eyebrow.
+SOUND: garden birds, four sharp heavy thuds on the bag, the creak of the frame, his short controlled breaths. No dialogue, no music.
+
+==============================================================================
+ESCENA 5 · LA APUESTA
+==============================================================================
+
+=== THE SCENE: THE BET (0.0s–4.0s) ===
+A crowded, slightly shabby betting shop: screens showing horse races on the back wall, working men in jackets and caps standing around. Seen from behind the counter, as the cashier sees it. ONE continuous shot, slowly moving in.
+- 0.0s–1.2s: THE HERO and THE QUEEN walk up to the counter side by side through the crowd, completely overdressed and completely at ease; the men turn their heads to stare at them.
+- 1.4s: THE HERO calmly puts a very thick wad of banknotes down on the counter (plain notes, no readable text).
+- 2.2s: THE QUEEN leans her head on his shoulder and points one finger at a race screen behind them, choosing the horse.
+- 3.0s–4.0s: he looks down at her, she looks up at him, and they share a small secret smile; around them the men stare at the money with open mouths.
+SOUND: the murmur of the betting shop, race commentary far away with no clear words, the slap of the banknotes on the counter, a low whistle from someone. No dialogue, no music.
+
+==============================================================================
+ESCENA 6 · LA CARRERA
+==============================================================================
+
+=== THE SCENE: THE RACE (0.0s–6.0s) ===
+A fairy-tale comedy scene, like a family film. A horse racecourse on a bright day: a sandy track, a white rail, grandstands full of people in the distance. THE RIVAL PRINCESS is exactly the woman of IMAGE 4 (an enormous golden braid with small flowers, a rose-pink gown): she rides a white horse. ONE continuous shot, panning with the race.
+- 0.0s–2.2s: the rival princess is winning the race on her white horse, galloping along the track from left to right, her golden braid streaming behind her; three brown horses with jockeys in bright silks chase her a few lengths back. At the right edge of the frame, in the foreground, THE HERO and THE QUEEN stand at the rail with their backs to the camera, watching, perfectly calm.
+- 2.0s–2.2s: THE QUEEN lifts one hand with a small elegant flick.
+- 2.2s–3.4s: a wide patch of clear, sparkling ice spreads across the sand right in front of the white horse; the horse steps onto it, skids, slows down and gently slides to a stop sitting on its haunches like a surprised dog, completely unharmed, the princess hanging on to its neck with her mouth open.
+- 3.0s–4.6s: the three brown horses gallop past on the dry sand beside the ice and race on toward the finish.
+- 4.6s–6.0s: the white horse sits on the ice in the middle of the track, the princess throwing her arms up in frustration; at the rail THE HERO and THE QUEEN turn to each other and bump fists, cool and satisfied.
+SOUND: thundering hooves, a roaring crowd, the crackle of ice spreading, hooves sliding on ice, hooves thundering past, the crowd gasping. No dialogue, no music.
+
+==============================================================================
+ESCENA 7 · EL GUIÑO
+==============================================================================
+
+=== THE SCENE: THE WINK (0.0s–4.0s) ===
+The white rail of the racecourse, seen from the track side on a bright day; behind, out of focus, the crowd and the grandstand. ONE continuous shot, slowly moving in: a medium two-shot from the waist up, THE HERO on the left and THE QUEEN on the right, standing side by side at the rail, close together.
+- 0.0s–0.8s: both are looking off to the side, down the track, with innocent faces.
+- 0.8s–1.8s: first he, then she, slowly turn their faces to the camera.
+- 2.2s: she gives a slow, wicked little half smile; he winks at the lens.
+- 2.9s: without looking at each other, they bump fists low, in front of them.
+- 3.2s–4.0s: they hold the look at the camera, cool and unbothered, like two people who got away with it.
+SOUND: the roar of the racecourse crowd, hooves far away, a soft knock of knuckles. No dialogue, no music.
+
+==============================================================================
+ESCENA 8 · LAS GANANCIAS
+==============================================================================
+
+=== THE SCENE: THE WINNINGS (0.0s–4.0s) ===
+A garden party at the racecourse on a bright day: a white marquee, elegant guests in summer hats clapping. In the foreground, a table covered with small mountains of bundled banknotes (plain notes, no readable text). THE SNOWMAN is exactly the snowman of IMAGE 4 (three balls of real snow, a carrot nose, a coal smile, big black sunglasses, twig arms): he stands on the table at the right, as tall as a child, bobbing happily. ONE continuous shot, slowly moving in. Behind the table stand THE HERO (left) and THE QUEEN (right).
+- 0.6s–1.2s: with a cool little smirk THE QUEEN shakes a bottle of champagne and pops it: a white fountain of foam sprays up and away to the side, never onto the two of them.
+- 1.2s and 2.2s: THE HERO, calm and smug, flicks handfuls of banknotes up into the air with one hand, like a man who has done this before; the notes flutter down around the two of them.
+- 3.0s–4.0s: he puts his arm around her shoulders; she leans into him; both look straight at the camera with the same slow, satisfied smirk, completely unbothered, like the stars of their own music video; the snowman nods along, cool behind his sunglasses.
+SOUND: a cheering, clapping crowd, the pop of the cork, fizzing foam, the flutter of paper money, their laughter. No dialogue, no music.
+
+==============================================================================
+ESCENA 9 · LOS DOS TRONOS
+==============================================================================
+
+=== THE SCENE: THE TWO THRONES (0.0s–5.0s) ===
+A comedy scene. An elegant garden party on a green lawn: guests in pastel dresses, hats and suits standing around, a tall hedge behind. In the middle of the lawn, two big thrones of red velvet and carved gold, side by side: THE QUEEN sits on the left one, perfectly upright; THE HERO sits on the right one, relaxed, legs crossed, a glass of champagne in his hand. THE RIVAL PRINCESS is exactly the woman of IMAGE 4 (an enormous golden braid with small flowers, a rose-pink gown). TWO SHOTS with one hard cut at 1.8s.
+- 0.0s–1.8s, SHOT A, wide: the rival princess walks up to the thrones with her head low, defeated, her long braid trailing on the grass, and stops in front of THE QUEEN.
+- 1.8s–2.6s, SHOT B, closer, three-quarter view: she sinks down on one knee; THE QUEEN, without even looking at her, lazily holds out one hand.
+- 2.6s–3.6s: the rival princess takes the hand and kisses it, reluctantly, like a subject before her queen; THE QUEEN looks straight ahead, chin up, with a tiny satisfied smile.
+- 3.2s–5.0s: THE HERO, lounging on his throne like a rock star, watches the scene with a slow smug smile, takes an unhurried sip of champagne and then gives the camera a cool, amused look over the rim of his glass.
+SOUND: garden party murmur, birds, the rustle of the gown on the grass, a few shocked whispers with no clear words, the clink of his glass. No dialogue, no music.
+
+==============================================================================
+ESCENA 10 · LA PELUQUERÍA
+==============================================================================
+
+=== THE SCENE: BAD HAIR DAY (0.0s–6.0s) ===
+A slapstick comedy scene. A bright modern hair salon: mirrors with white lights, black salon chairs, shelves of blue bottles. THE RIVAL PRINCESS is the woman of IMAGE 4 with the same face and the same rose-pink gown, but now she is completely BALD: a smooth, clean, shaved head, no hair at all. THE SNOWMAN is exactly the snowman of IMAGE 5 (three balls of real snow, a carrot nose, a coal smile, big black sunglasses, twig arms). TWO SHOTS with one hard cut at 3.2s.
+- 0.0s–3.2s, SHOT A, a close side view of the rival princess sitting in the salon chair, bald, with her eyes closed and a relaxed smile, not knowing yet. At 1.6s she lifts one hand and touches the top of her head; her fingers find only smooth skin; her eyes snap open; at 2.5s her mouth falls open in a long silent-movie scream of horror.
+- 3.2s–6.0s, SHOT B, wide, from the front: she sits frozen in the chair in the middle of the salon with both hands on her bald head. Behind her, on the left, THE HERO and THE QUEEN, standing tall and stylish with their arms crossed, exchange a look and give each other one slow, cool high-five above their heads (at 4.0s) without even looking at the hands; then they watch her with smug, satisfied smirks: no doubling over, no goofy laughing. On the right, THE SNOWMAN proudly holds up the enormous cut-off golden braid like a trophy, the rest of it lying in coils on the floor.
+SOUND: salon ambience, the hum of a hairdryer, a horrified shriek, the crisp slap of one high five, a low satisfied chuckle from the couple. No dialogue, no music.
+
+==============================================================================
+ESCENA 11 · LA CENA (encima va tu voz en off)
+==============================================================================
+
+=== THE SCENE: DINNER FOR TWO (0.0s–8.0s) ===
+A light comedy scene, like a family film. An elegant restaurant at night: dark wood, warm lamps, other tables with candles in the background, a big window onto the street behind them. ONE continuous shot, moving in very slowly: THE HERO (left) and THE QUEEN (right) sit facing each other across a small round table with a white tablecloth, one candle and one red rose, both seen in three-quarter view, fully dressed in their usual clothes, their faces warmly lit by the candle. THE RIVAL: a young woman with green eyes and freckles in a rose-pink gown; she has NO HAIR AT ALL, her head is completely shaved and smooth, and she wears a pink silk scarf knotted tightly around her bare head like a bandana: no braid, no ponytail, not a single strand of hair anywhere.
+- 0.0s–1.5s: they look at each other with cool, satisfied smiles and raise their crystal glasses.
+- 1.5s–1.9s: the glasses meet in a quiet toast over the candle.
+- 1.9s–3.0s: they each take a small sip and set the glasses down on the table.
+- 3.0s: he rests his gloved hand on top of her hand on the table.
+- 2.5s onward, in the background: outside the window, the rival with the pink scarf on her bald head walks up, stops, crosses her arms and pouts at them through the glass like a sulky child; they do not notice her at all.
+- about 4.5s: THE HERO turns his face to the camera. About 5.3s: THE QUEEN turns to the camera too, with a soft triumphant smile.
+- about 6.3s: he gives a calm, confident half smile straight at the lens and winks.
+HE DOES NOT SPEAK: his lips never form words; he only smiles, because a voice-over will be added later. She does not speak either.
+SOUND: soft restaurant murmur, cutlery far away, the delicate clink of two glasses. No dialogue, no music.
