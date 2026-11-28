@@ -109,6 +109,8 @@
   .cuatro li { counter-increment: c; position: relative; background: var(--carta); border: 1px solid var(--linea); border-radius: 14px; padding: 12px 14px 12px 54px; font-size: 15.5px; }
   .cuatro li:before { content: counter(c); position: absolute; left: 14px; top: 12px; width: 28px; height: 28px; border-radius: 50%; background: var(--tinta); color: #fff; font: 700 14px/28px var(--sans); text-align: center; }
   .cuatro li b { color: var(--tinta); }
+  .pegala { margin: -8px 0 30px; padding: 16px 18px; background: var(--rosa); border: 1px solid #EBC3B3; border-left: 6px solid var(--terra); border-radius: 16px; }
+  .pegala p { margin: 0 0 10px; font-size: 16px; } .pegala .term pre { white-space: pre-wrap; word-break: break-word; }
 </style>
 <style id="iv2">
   .iv2top { display: block; background: var(--rosa, #F6DED5); border: 1px solid #EBC3B3; border-left: 6px solid var(--terra, #D9774F); border-radius: 14px; padding: 14px 16px; margin: 0 0 30px; font-size: 16px; line-height: 1.45; color: var(--tinta, #1F1D1A); text-decoration: none; }
@@ -123,6 +125,7 @@
   .imperio.iv2 .iv2caso { display: flex; gap: 12px; align-items: flex-start; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.1); border-radius: 14px; padding: 10px 12px; }
   .imperio.iv2 .iv2caso img { width: 56px; height: 56px; border-radius: 50%; object-fit: cover; flex: none; border: 2px solid rgba(255,255,255,.25); }
   .imperio.iv2 .iv2caso p { margin: 0; font-size: 15.5px; line-height: 1.45; }
+  .imperio.iv2 .iv2caso .iv2ini { width: 56px; height: 56px; border-radius: 50%; flex: none; display: flex; align-items: center; justify-content: center; background: var(--terra, #D9774F); color: #fff; font: 700 22px/1 var(--sans, system-ui, sans-serif); border: 2px solid rgba(255,255,255,.25); }
   .imperio.iv2 .iv2caso.iv2nat { display: block; padding: 0; overflow: hidden; }
   .imperio.iv2 .iv2caso.iv2nat img { width: 100%; max-width: 480px; height: auto; margin: 0 auto; border-radius: 0; border: 0; display: block; object-fit: contain; }
   .imperio.iv2 .iv2caso.iv2nat p { padding: 12px 14px 14px; }
@@ -136,8 +139,8 @@
     <span class="etiqueta">GRATIS · EN ESPAÑOL</span>
   </div>
   <style>.sk .term pre{max-height:240px;overflow-y:auto} .sk .desliza{margin:6px 0 0;font-size:13px;color:#6b6259}</style>
-  <h1>Los prompts con los que Claude hizo <em>este video</em> por 3,71 dólares</h1>
-  <p class="bajada">Este video no lo grabé: lo hizo Claude Code con mi clon, sin cámara y sin saber de cine. <strong>Todo el video costó 3,71 dólares.</strong> Y videos como este les generan <strong>30 mil dólares en ventas</strong> a mis clientes. Es una cuenta buena, porque son anuncios muy impactantes. Aquí tienes los prompts y la estrategia.</p>
+  <h1>Los prompts con los que Claude hizo <em>este video</em></h1>
+  <p class="bajada">Este video no lo grabé: lo hizo Claude Code con mi clon, sin cámara y sin saber de cine. <strong>Todo el video costó 3,71 dólares.</strong> Y videos como este les generan <strong>entre 5.000 y 30 mil dólares en ventas</strong> a mis clientes. Es una cuenta buena, porque son anuncios muy impactantes. Aquí tienes los prompts y la estrategia.</p>
 
   <a class="iv2top" href="#imperio">
     <p class="iv2h">&#128640; <b>Lo que vas a encontrar aquí es solo una pieza.</b> Los agentes Imperio completos ya trabajan solos en negocios reales:</p>
@@ -151,14 +154,12 @@
 
   <section class="seccion">
     <h2>Los <em>prompts</em></h2>
-    <p>Copia el prompt y pégalo en Claude Code. Claude escribe las escenas, crea las imágenes y el video con tu clon, lo revisa y lo arma. Está en español: cambia el vestuario o las escenas como quieras.</p>
+    <p>Copia el prompt y pégalo en Claude Code. Claude escribe las escenas, crea las imágenes y el video con tu clon, lo revisa y lo arma.</p>
   </section>
 
   <article class="sk">
     <img src="img/video-reina-hielo.jpg" alt="La reina del hielo y yo brindando con café helado en la calle" loading="lazy" width="928" height="522">
     <div>
-      <h3>La reina del hielo y yo</h3>
-      <p>La reina del hielo y yo, los chicos malos del cuento, en 11 escenas: una calle congelada, unas tijeras gigantes para la trenza más larga del reino, una apuesta en el hipódromo, dos tronos y una cena a la luz de las velas.</p>
       <div class="term"><div class="barra"><i style="background:#FF5F57"></i><i style="background:#FEBC2E"></i><i style="background:#28C840"></i><span>Claude Code</span></div><pre id="p0">Haz con mi clon un video vertical de unos 55 segundos, como el tráiler de una comedia de cuento de hadas en el mundo de hoy, sin diálogos, con Higgsfield: las imágenes con GPT Image 2.6 y el video con Seedance 2.5 (480p, con audio). Usa las fotos de mi clon de la carpeta fotos. Soy el rey de invierno: abrigo largo azul medianoche con bordados plateados, cuello de piel gris, botas negras altas y guantes negros. Mi pareja es la reina del hielo: trenza rubia platinada sobre el hombro, tiara plateada y vestido azul hielo de lentejuelas con manga larga; con un gesto de la mano hace aparecer hielo. Somos los chicos malos del cuento: tranquilos, elegantes, de media sonrisa, nunca payasos. Le hacemos bromas a una princesa rival de trenza dorada larguísima y vestido rosado, y nos ayuda un muñeco de nieve con gafas oscuras. Son 11 escenas cortas: 1) la princesa huye de la policía a caballo por una avenida y la reina congela la calle: el caballo patina y queda sentado, sin hacerse daño; 2) los dos brindamos con café helado y miramos a la cámara; 3) en una torre altísima, el novio de la princesa sube agarrado de la trenza; yo le paso a la reina unas tijeras gigantes, ella corta la trenza y el novio cae a un carro de paja; 4) entreno sin camisa pegándole a un saco de boxeo y la reina me mira desde una banca, bajándose las gafas oscuras; 5) en una casa de apuestas pongo un fajo de billetes en el mostrador y ella escoge el caballo; 6) en el hipódromo la princesa va ganando, la reina congela un pedazo de la pista, el caballo patina y los demás la pasan; 7) en la baranda miramos a la cámara, yo guiño el ojo y chocamos los puños; 8) celebramos con champaña y billetes al aire, con el muñeco de nieve al lado; 9) estamos sentados en dos tronos en un jardín y la princesa se arrodilla y le besa la mano a la reina; 10) en la peluquería la princesa descubre que quedó calva, nosotros chocamos las manos y el muñeco levanta la trenza como un trofeo; 11) cenamos a la luz de una vela, la princesa nos mira brava por la ventana y yo miro a la cámara sin hablar, porque ahí va mi voz en off. Primero muéstrame mi ficha con el vestuario, la de la reina y las de los demás personajes, y espera mi OK. Los personajes son inventados: que no se parezcan a los de ninguna película. Genera una escena a la vez y escríbelas como comedia de película familiar: nadie sale herido y los animales quedan bien, para que el filtro de Higgsfield no las rechace. Nadie se mueve más rápido que una persona real. Antes de mostrármelo, revísalo cuadro por cuadro cada medio segundo y rehaz solo la escena que salga mal. Al final ponle música de rock pesado libre de derechos y dime cuánto costó.</pre></div><button class="copiar" type="button" data-copiar-de="p0">📋 Copiar</button>
       <p class="desliza">Desliza dentro del cuadro para leerlo todo; el botón copia el prompt completo.</p>
       <p class="nota" style="margin-top:10px"><a href="prompts/reina-hielo-prompts.txt" download>📄 Descarga el prompt de cada una de las 11 escenas (Seedance, en inglés)</a></p>
@@ -167,8 +168,6 @@
 
   <ul class="avisos">
     <li>🧰 <b>Necesitas:</b> Claude Code (plan Pro), una cuenta de Higgsfield con créditos y unas fotos tuyas para armar tu clon.</li>
-    <li>💸 <b>Lo que cuesta:</b> este video de 55 segundos me costó 3,71 dólares en créditos de Higgsfield, contando las escenas que repetí. Cada segundo de video gasta unos 3 créditos.</li>
-    <li>⚠️ Clónate solo a ti, nunca a otra persona sin su permiso. Y marca tu video como hecho con IA cuando lo subas.</li>
   </ul>
 
 
@@ -203,6 +202,11 @@ claude</pre></div><button class="copiar" type="button" data-copiar-de="maccd">�
     <p class="nota" style="margin-top:12px">La primera vez te abre el navegador para entrar con tu cuenta de Claude. Entras, vuelves a la terminal y ya está Claude Code esperando tu mensaje. Si te pide permiso para crear archivos o instalar algo, acéptalo: así trabaja.</p>
   </section>
 
+  <div class="pegala">
+    <p>&#128073; <b>A partir de aquí, puedes pegarle esta página a Claude</b> y él te guiará para crear todo el video.</p>
+    <div class="term"><div class="barra"><i style="background:#FF5F57"></i><i style="background:#FEBC2E"></i><i style="background:#28C840"></i><span>Claude Code</span></div><pre id="guia">Lee esta guía y guíame paso a paso para crear el video con mi clon: https://diegodoc1111.github.io/prompt-reina-hielo/</pre></div><button class="copiar" type="button" data-copiar-de="guia">📋 Copiar</button>
+  </div>
+
   <section class="paso">
     <div class="num">4</div>
     <h2>Conecta <em>Higgsfield</em> a Claude Code</h2>
@@ -224,37 +228,23 @@ claude</pre></div><button class="copiar" type="button" data-copiar-de="maccd">�
     <ol class="cuatro">
       <li><b>Usamos Claude Code</b>, el mismo que hizo este video.</li>
       <li><b>Le pegamos los agentes Imperio</b>: cada uno con su puesto, como un empleado.</li>
-      <li><b>Ellos hacen todo el trabajo:</b> crean los anuncios, editan los videos, pautan y optimizan los anuncios en Meta Ads como tu trafficker, crean la página web y los videos de venta, responden los mensajes y le hacen seguimiento a cada cliente.</li>
-      <li><b>El negocio vende más</b> y reemplaza el trabajo de 4 personas por una suscripción de 20 dólares al mes.</li>
+      <li><b>Ellos hacen todo el trabajo:</b> crean los anuncios, editan los videos, pautan y optimizan los anuncios en Meta Ads como tu trafficker, crean la página web y los videos de venta, responden los mensajes y le hacen seguimiento a cada cliente. Todo en automático, mientras tú solo te preocupas por recibir el dinero de las ventas.</li>
+      <li><b>El negocio vende más</b> y reemplaza el trabajo de 4 personas por una suscripción de unos pocos dólares al mes.</li>
     </ol>
     <p class="nota" style="margin-top:12px">Así es como los negocios de mis clientes están vendiendo más. Abajo te cuento cómo funcionan los agentes Imperio.</p>
   </section>
 
-  <section class="seccion">
-    <h2>Preguntas <em>frecuentes</em></h2>
-    <details>
-      <summary>¿Sale perfecto a la primera?</summary>
-      <p>No siempre. La IA todavía se equivoca: unas tijeras que pasan sin cortar nada, un personaje al que le vuelve a salir el pelo. Por eso el prompt le pide a Claude revisar cada medio segundo y rehacer solo la escena que salga mal. En este video repetí cinco, y aun así costó 3,71 dólares.</p>
-    </details>
-    <details>
-      <summary>¿Y si Higgsfield me rechaza una escena?</summary>
-      <p>A veces su filtro rechaza escenas de acción. No te cobra: devuelve los créditos. Claude la vuelve a escribir más suave, como comedia de película familiar, y pasa.</p>
-    </details>
-    <details>
-      <summary>¿Necesito saber de cine o de edición?</summary>
-      <p>No. Claude Code escribe las escenas, crea las imágenes y el video, lo revisa y lo arma. Tú solo revisas y apruebas.</p>
-    </details>
-  </section>
-
 <section class="imperio iv2" id="imperio">
     <h2>Las empresas que sobrevivan serán las que usen <em>IA</em></h2>
-    <p>Los agentes Imperio hacen en <b>3 días el trabajo de todo un mes</b>. Reemplazan una nómina de 4 empleados (<b>2.000 a 4.000 USD al mes</b>) por una IA de <b>25 a 50 USD</b>.</p>
+    <p>Los agentes Imperio hacen en <b>3 días el trabajo de todo un mes</b>. Reemplazan una nómina de 4 empleados (<b>2.000 a 4.000 USD al mes</b>) por una IA que cuesta <b>unos pocos dólares por mes</b>.</p>
     <p>Primero, los negocios que los usen van a multiplicar sus márgenes. Después, van a ser los únicos que queden: nadie podrá competir en precio con quien lo hace todo sin humanos lentos y caros.</p>
     <h3 class="iv2ya">Ya está pasando:</h3>
     <div class="iv2casos">
       <div class="iv2caso"><img src="img/caso-francia.jpg" alt="Francia Salazar" width="56" height="56"><p><b>Francia Salazar</b>, estética: factura unos <b>30.000 USD al mes, 11.000 más que antes</b>, con los agentes trabajando solos.</p></div>
       <div class="iv2caso"><img src="img/caso-pablo.jpg" alt="Dr. Pablo Gavilanes" width="56" height="56"><p><b>Dr. Pablo Gavilanes</b>, ginecólogo: <b>+5.000 USD extras al mes</b> en consultas, casi <b>30.000 USD extra en 6 meses</b>. Los agentes hacen el 95&nbsp;% del trabajo.</p></div>
       <div class="iv2caso"><img src="img/caso-andres.jpg" alt="Andrés, dueño de un glamping" width="56" height="56"><p><b>Andrés</b>, glamping: sus reservas llevaban 3 años cayendo por la competencia; <b>las duplicó en 60 días</b>.</p></div>
+      <div class="iv2caso"><span class="iv2ini" aria-hidden="true">S</span><p><b>Simón</b> pasó de dormir en un colchón a generar <b>hasta 11.000 dólares en un mes</b>.</p></div>
+      <div class="iv2caso"><span class="iv2ini" aria-hidden="true">M</span><p><b>Martín</b> facturó <b>medio millón de dólares</b> en cursos online con mi conocimiento, el mismo que hoy está clonado en sus agentes de IA.</p></div>
       <div class="iv2caso iv2nat"><img src="img/caso-natalia-v2.jpg" alt="Natalia junto a su Lamborghini Urus" width="720" height="900" loading="lazy"><p><b>Natalia</b> se convirtió en <b>la vendedora #1 de bienes raíces en Dubái</b> gracias a los agentes Imperio y a mi acompañamiento. La premiaron con un <b>Lamborghini Urus avaluado en 300.000 USD</b>.</p></div>
     </div>
     <p>Te hacen el contenido y los anuncios, editan tus videos, publican por ti, hacen tus páginas web y tus campañas en Meta, y hasta responden tus mensajes y hacen seguimiento de forma automática. <b>Sin saber de tecnología.</b></p>
